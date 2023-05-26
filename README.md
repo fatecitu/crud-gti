@@ -1,6 +1,6 @@
 # 🔥 CRUD com autenticação integrado ao Firebase (v.9 SDK) utilizando apenas HTML, CSS e Javascript puro
 
-Projeto em HTML, CSS e Vanilla Javascript que implementa um pequeno CRUD. (São utilizados o Realtime Database, Authentication com email/senha e conta Gogole e Storage do Firebase)
+Projeto em HTML, CSS e Vanilla Javascript que implementa um pequeno CRUD. (São utilizados o Realtime Database, Authentication com email/senha e conta Google do Firebase)
 
 > ⚠️ **Projeto utilizado nas aulas da disciplina de Programação para a Internet da [Fatec Itu](fatecitu.edu.br)**
 
